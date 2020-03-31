@@ -34,7 +34,8 @@
     "pages/coupons/index",
     "pages/invoice/list",
     "pages/invoice/apply",
-    "pages/deposit/pay"
+    "pages/deposit/pay",
+    "pages/goods-barcode/barcode"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -86,7 +87,7 @@
   "plugins": {
     "wxparse": {
       "version": "1.0.10",
-      "provider": "wx5d60c080635009b1"      
+      "provider": "wx5d60c080635009b1"
     }
   },
   "usingComponents": {

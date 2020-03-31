@@ -20,7 +20,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.10.2",
-	"appid": "wxa46b09d413fbcaff",
+	"appid": "wxddbe83489c508b5a",
 	"projectname": "%E5%A4%A9%E4%BD%BF%E7%AB%A5%E8%A3%85",
 	"scripts": {},
 	"simulatorType": "wechat",
@@ -39,6 +39,10 @@
 			"list": []
 		},
 		"game": {
+			"current": -1,
+			"list": []
+		},
+		"gamePlugin": {
 			"current": -1,
 			"list": []
 		},
@@ -98,6 +102,13 @@
 					"id": -1,
 					"name": "分销中心",
 					"pathName": "pages/fx/apply-status",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "商品条码查询",
+					"pathName": "pages/goods-barcode/barcode",
 					"scene": null
 				}
 			]
